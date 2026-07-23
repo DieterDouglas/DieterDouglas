@@ -1,16 +1,32 @@
-## Hi there 👋
+## Olá, eu sou o Douglas
 
-<!--
-**DieterDouglas/DieterDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full-stack com experiência profissional construindo aplicações web modernas e escaláveis.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens**
+- JavaScript
+- TypeScript
+
+**Frontend**
+- React
+- Angular
+
+**Backend**
+- Yii2 (PHP)
+- NestJS (em estudo/aplicação prática)
+
+**Banco de dados**
+- PostgreSQL
+
+**Outros**
+- Git / GitHub
+- Design e consumo de APIs REST
+
+### Sobre mim
+
+Atuo profissionalmente com JavaScript, TypeScript, React, Angular, Yii2 e PostgreSQL, com foco em construir e integrar APIs REST. Venho expandindo minha stack para o ecossistema Node.js/TypeScript com NestJS, buscando unir a solidez do backend PHP que já domino com práticas modernas de arquitetura full-stack.
+
+### Contato
+
+- E-mail: calebedieter@gmail.com
