@@ -1,6 +1,4 @@
-## Olá, eu sou o Douglas
-
-Desenvolvedor full-stack com experiência profissional construindo aplicações web modernas e escaláveis.
+##Desenvolvedor full-stack com experiência profissional construindo aplicações web modernas e escaláveis.
 
 ### Stack
 
